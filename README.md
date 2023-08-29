@@ -1,2 +1,2 @@
 # Entra21-CSharp
-Exercícios de funcionalidades básicas na linguagem C# feitos no curso Entra21.
+Exercícios de funcionalidades básicas na linguagem C#, feitas no curso de C# do Entra21.
