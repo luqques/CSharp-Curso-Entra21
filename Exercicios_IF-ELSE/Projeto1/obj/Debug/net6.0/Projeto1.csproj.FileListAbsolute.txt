@@ -1,0 +1,15 @@
+C:\Users\guest01\source\repos\HelloWorld\Projeto1\bin\Debug\net6.0\Projeto1.exe
+C:\Users\guest01\source\repos\HelloWorld\Projeto1\bin\Debug\net6.0\Projeto1.deps.json
+C:\Users\guest01\source\repos\HelloWorld\Projeto1\bin\Debug\net6.0\Projeto1.runtimeconfig.json
+C:\Users\guest01\source\repos\HelloWorld\Projeto1\bin\Debug\net6.0\Projeto1.dll
+C:\Users\guest01\source\repos\HelloWorld\Projeto1\bin\Debug\net6.0\Projeto1.pdb
+C:\Users\guest01\source\repos\HelloWorld\Projeto1\obj\Debug\net6.0\Projeto1.csproj.AssemblyReference.cache
+C:\Users\guest01\source\repos\HelloWorld\Projeto1\obj\Debug\net6.0\Projeto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest01\source\repos\HelloWorld\Projeto1\obj\Debug\net6.0\Projeto1.AssemblyInfoInputs.cache
+C:\Users\guest01\source\repos\HelloWorld\Projeto1\obj\Debug\net6.0\Projeto1.AssemblyInfo.cs
+C:\Users\guest01\source\repos\HelloWorld\Projeto1\obj\Debug\net6.0\Projeto1.csproj.CoreCompileInputs.cache
+C:\Users\guest01\source\repos\HelloWorld\Projeto1\obj\Debug\net6.0\Projeto1.dll
+C:\Users\guest01\source\repos\HelloWorld\Projeto1\obj\Debug\net6.0\refint\Projeto1.dll
+C:\Users\guest01\source\repos\HelloWorld\Projeto1\obj\Debug\net6.0\Projeto1.pdb
+C:\Users\guest01\source\repos\HelloWorld\Projeto1\obj\Debug\net6.0\Projeto1.genruntimeconfig.cache
+C:\Users\guest01\source\repos\HelloWorld\Projeto1\obj\Debug\net6.0\ref\Projeto1.dll

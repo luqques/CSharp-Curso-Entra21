@@ -1,0 +1,15 @@
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\VerificarParidade\bin\Debug\net6.0\VerificarParidade.exe
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\VerificarParidade\bin\Debug\net6.0\VerificarParidade.deps.json
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\VerificarParidade\bin\Debug\net6.0\VerificarParidade.runtimeconfig.json
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\VerificarParidade\bin\Debug\net6.0\VerificarParidade.dll
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\VerificarParidade\bin\Debug\net6.0\VerificarParidade.pdb
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\VerificarParidade\obj\Debug\net6.0\VerificarParidade.csproj.AssemblyReference.cache
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\VerificarParidade\obj\Debug\net6.0\VerificarParidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\VerificarParidade\obj\Debug\net6.0\VerificarParidade.AssemblyInfoInputs.cache
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\VerificarParidade\obj\Debug\net6.0\VerificarParidade.AssemblyInfo.cs
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\VerificarParidade\obj\Debug\net6.0\VerificarParidade.csproj.CoreCompileInputs.cache
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\VerificarParidade\obj\Debug\net6.0\VerificarParidade.dll
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\VerificarParidade\obj\Debug\net6.0\refint\VerificarParidade.dll
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\VerificarParidade\obj\Debug\net6.0\VerificarParidade.pdb
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\VerificarParidade\obj\Debug\net6.0\VerificarParidade.genruntimeconfig.cache
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\VerificarParidade\obj\Debug\net6.0\ref\VerificarParidade.dll

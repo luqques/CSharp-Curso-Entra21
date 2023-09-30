@@ -1,0 +1,15 @@
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\Projeto11\bin\Debug\net6.0\Projeto11.exe
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\Projeto11\bin\Debug\net6.0\Projeto11.deps.json
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\Projeto11\bin\Debug\net6.0\Projeto11.runtimeconfig.json
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\Projeto11\bin\Debug\net6.0\Projeto11.dll
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\Projeto11\bin\Debug\net6.0\Projeto11.pdb
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\Projeto11\obj\Debug\net6.0\Projeto11.csproj.AssemblyReference.cache
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\Projeto11\obj\Debug\net6.0\Projeto11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\Projeto11\obj\Debug\net6.0\Projeto11.AssemblyInfoInputs.cache
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\Projeto11\obj\Debug\net6.0\Projeto11.AssemblyInfo.cs
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\Projeto11\obj\Debug\net6.0\Projeto11.csproj.CoreCompileInputs.cache
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\Projeto11\obj\Debug\net6.0\Projeto11.dll
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\Projeto11\obj\Debug\net6.0\refint\Projeto11.dll
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\Projeto11\obj\Debug\net6.0\Projeto11.pdb
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\Projeto11\obj\Debug\net6.0\Projeto11.genruntimeconfig.cache
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\Projeto11\obj\Debug\net6.0\ref\Projeto11.dll

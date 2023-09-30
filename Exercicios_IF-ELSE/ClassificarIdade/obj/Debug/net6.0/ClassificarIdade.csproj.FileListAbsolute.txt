@@ -1,0 +1,15 @@
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\ClassificarIdade\bin\Debug\net6.0\ClassificarIdade.exe
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\ClassificarIdade\bin\Debug\net6.0\ClassificarIdade.deps.json
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\ClassificarIdade\bin\Debug\net6.0\ClassificarIdade.runtimeconfig.json
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\ClassificarIdade\bin\Debug\net6.0\ClassificarIdade.dll
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\ClassificarIdade\bin\Debug\net6.0\ClassificarIdade.pdb
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\ClassificarIdade\obj\Debug\net6.0\ClassificarIdade.csproj.AssemblyReference.cache
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\ClassificarIdade\obj\Debug\net6.0\ClassificarIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\ClassificarIdade\obj\Debug\net6.0\ClassificarIdade.AssemblyInfoInputs.cache
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\ClassificarIdade\obj\Debug\net6.0\ClassificarIdade.AssemblyInfo.cs
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\ClassificarIdade\obj\Debug\net6.0\ClassificarIdade.csproj.CoreCompileInputs.cache
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\ClassificarIdade\obj\Debug\net6.0\ClassificarIdade.dll
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\ClassificarIdade\obj\Debug\net6.0\refint\ClassificarIdade.dll
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\ClassificarIdade\obj\Debug\net6.0\ClassificarIdade.pdb
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\ClassificarIdade\obj\Debug\net6.0\ClassificarIdade.genruntimeconfig.cache
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\ClassificarIdade\obj\Debug\net6.0\ref\ClassificarIdade.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SistemaFuncoes/1.0.0": {
+        "runtime": {
+          "SistemaFuncoes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SistemaFuncoes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

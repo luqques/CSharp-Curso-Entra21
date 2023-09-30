@@ -1,0 +1,15 @@
+C:\Users\guest01\source\repos\HelloWorld\Projeto5\bin\Debug\net6.0\Projeto5.exe
+C:\Users\guest01\source\repos\HelloWorld\Projeto5\bin\Debug\net6.0\Projeto5.deps.json
+C:\Users\guest01\source\repos\HelloWorld\Projeto5\bin\Debug\net6.0\Projeto5.runtimeconfig.json
+C:\Users\guest01\source\repos\HelloWorld\Projeto5\bin\Debug\net6.0\Projeto5.dll
+C:\Users\guest01\source\repos\HelloWorld\Projeto5\bin\Debug\net6.0\Projeto5.pdb
+C:\Users\guest01\source\repos\HelloWorld\Projeto5\obj\Debug\net6.0\Projeto5.csproj.AssemblyReference.cache
+C:\Users\guest01\source\repos\HelloWorld\Projeto5\obj\Debug\net6.0\Projeto5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest01\source\repos\HelloWorld\Projeto5\obj\Debug\net6.0\Projeto5.AssemblyInfoInputs.cache
+C:\Users\guest01\source\repos\HelloWorld\Projeto5\obj\Debug\net6.0\Projeto5.AssemblyInfo.cs
+C:\Users\guest01\source\repos\HelloWorld\Projeto5\obj\Debug\net6.0\Projeto5.csproj.CoreCompileInputs.cache
+C:\Users\guest01\source\repos\HelloWorld\Projeto5\obj\Debug\net6.0\Projeto5.dll
+C:\Users\guest01\source\repos\HelloWorld\Projeto5\obj\Debug\net6.0\refint\Projeto5.dll
+C:\Users\guest01\source\repos\HelloWorld\Projeto5\obj\Debug\net6.0\Projeto5.pdb
+C:\Users\guest01\source\repos\HelloWorld\Projeto5\obj\Debug\net6.0\Projeto5.genruntimeconfig.cache
+C:\Users\guest01\source\repos\HelloWorld\Projeto5\obj\Debug\net6.0\ref\Projeto5.dll

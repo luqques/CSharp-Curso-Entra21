@@ -1,0 +1,15 @@
+C:\Users\lucas.cunha3\source\repos\Projeto1\Projeto10\bin\Debug\net6.0\Projeto10.exe
+C:\Users\lucas.cunha3\source\repos\Projeto1\Projeto10\bin\Debug\net6.0\Projeto10.deps.json
+C:\Users\lucas.cunha3\source\repos\Projeto1\Projeto10\bin\Debug\net6.0\Projeto10.runtimeconfig.json
+C:\Users\lucas.cunha3\source\repos\Projeto1\Projeto10\bin\Debug\net6.0\Projeto10.dll
+C:\Users\lucas.cunha3\source\repos\Projeto1\Projeto10\bin\Debug\net6.0\Projeto10.pdb
+C:\Users\lucas.cunha3\source\repos\Projeto1\Projeto10\obj\Debug\net6.0\Projeto10.csproj.AssemblyReference.cache
+C:\Users\lucas.cunha3\source\repos\Projeto1\Projeto10\obj\Debug\net6.0\Projeto10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.cunha3\source\repos\Projeto1\Projeto10\obj\Debug\net6.0\Projeto10.AssemblyInfoInputs.cache
+C:\Users\lucas.cunha3\source\repos\Projeto1\Projeto10\obj\Debug\net6.0\Projeto10.AssemblyInfo.cs
+C:\Users\lucas.cunha3\source\repos\Projeto1\Projeto10\obj\Debug\net6.0\Projeto10.csproj.CoreCompileInputs.cache
+C:\Users\lucas.cunha3\source\repos\Projeto1\Projeto10\obj\Debug\net6.0\Projeto10.dll
+C:\Users\lucas.cunha3\source\repos\Projeto1\Projeto10\obj\Debug\net6.0\refint\Projeto10.dll
+C:\Users\lucas.cunha3\source\repos\Projeto1\Projeto10\obj\Debug\net6.0\Projeto10.pdb
+C:\Users\lucas.cunha3\source\repos\Projeto1\Projeto10\obj\Debug\net6.0\Projeto10.genruntimeconfig.cache
+C:\Users\lucas.cunha3\source\repos\Projeto1\Projeto10\obj\Debug\net6.0\ref\Projeto10.dll

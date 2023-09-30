@@ -1,0 +1,15 @@
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\Projeto14\bin\Debug\net6.0\Projeto14.exe
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\Projeto14\bin\Debug\net6.0\Projeto14.deps.json
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\Projeto14\bin\Debug\net6.0\Projeto14.runtimeconfig.json
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\Projeto14\bin\Debug\net6.0\Projeto14.dll
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\Projeto14\bin\Debug\net6.0\Projeto14.pdb
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\Projeto14\obj\Debug\net6.0\Projeto14.csproj.AssemblyReference.cache
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\Projeto14\obj\Debug\net6.0\Projeto14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\Projeto14\obj\Debug\net6.0\Projeto14.AssemblyInfoInputs.cache
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\Projeto14\obj\Debug\net6.0\Projeto14.AssemblyInfo.cs
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\Projeto14\obj\Debug\net6.0\Projeto14.csproj.CoreCompileInputs.cache
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\Projeto14\obj\Debug\net6.0\Projeto14.dll
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\Projeto14\obj\Debug\net6.0\refint\Projeto14.dll
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\Projeto14\obj\Debug\net6.0\Projeto14.pdb
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\Projeto14\obj\Debug\net6.0\Projeto14.genruntimeconfig.cache
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\Projeto14\obj\Debug\net6.0\ref\Projeto14.dll

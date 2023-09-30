@@ -1,0 +1,5 @@
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\Projeto9\obj\Debug\net6.0\Projeto9.csproj.AssemblyReference.cache
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\Projeto9\obj\Debug\net6.0\Projeto9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\Projeto9\obj\Debug\net6.0\Projeto9.AssemblyInfoInputs.cache
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\Projeto9\obj\Debug\net6.0\Projeto9.AssemblyInfo.cs
+C:\Users\lucas.cunha3\OneDrive - SENAC-SC\Projetos\Projeto9\obj\Debug\net6.0\Projeto9.csproj.CoreCompileInputs.cache
