@@ -1,0 +1,14 @@
+D:\labs\Exercicios\exercicios-csharp\Exercicios\Enumeracoes.Composicoes\bin\Debug\net6.0\Enumeracoes.Composicoes.exe
+D:\labs\Exercicios\exercicios-csharp\Exercicios\Enumeracoes.Composicoes\bin\Debug\net6.0\Enumeracoes.Composicoes.deps.json
+D:\labs\Exercicios\exercicios-csharp\Exercicios\Enumeracoes.Composicoes\bin\Debug\net6.0\Enumeracoes.Composicoes.runtimeconfig.json
+D:\labs\Exercicios\exercicios-csharp\Exercicios\Enumeracoes.Composicoes\bin\Debug\net6.0\Enumeracoes.Composicoes.dll
+D:\labs\Exercicios\exercicios-csharp\Exercicios\Enumeracoes.Composicoes\bin\Debug\net6.0\Enumeracoes.Composicoes.pdb
+D:\labs\Exercicios\exercicios-csharp\Exercicios\Enumeracoes.Composicoes\obj\Debug\net6.0\Enumeracoes.Composicoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\labs\Exercicios\exercicios-csharp\Exercicios\Enumeracoes.Composicoes\obj\Debug\net6.0\Enumeracoes.Composicoes.AssemblyInfoInputs.cache
+D:\labs\Exercicios\exercicios-csharp\Exercicios\Enumeracoes.Composicoes\obj\Debug\net6.0\Enumeracoes.Composicoes.AssemblyInfo.cs
+D:\labs\Exercicios\exercicios-csharp\Exercicios\Enumeracoes.Composicoes\obj\Debug\net6.0\Enumeracoes.Composicoes.csproj.CoreCompileInputs.cache
+D:\labs\Exercicios\exercicios-csharp\Exercicios\Enumeracoes.Composicoes\obj\Debug\net6.0\Enumeracoes.Composicoes.dll
+D:\labs\Exercicios\exercicios-csharp\Exercicios\Enumeracoes.Composicoes\obj\Debug\net6.0\refint\Enumeracoes.Composicoes.dll
+D:\labs\Exercicios\exercicios-csharp\Exercicios\Enumeracoes.Composicoes\obj\Debug\net6.0\Enumeracoes.Composicoes.pdb
+D:\labs\Exercicios\exercicios-csharp\Exercicios\Enumeracoes.Composicoes\obj\Debug\net6.0\Enumeracoes.Composicoes.genruntimeconfig.cache
+D:\labs\Exercicios\exercicios-csharp\Exercicios\Enumeracoes.Composicoes\obj\Debug\net6.0\ref\Enumeracoes.Composicoes.dll
