@@ -21,6 +21,11 @@ namespace Heranca.Polimorfismo.Entities
             Saldo = saldo;
         }
 
+        public virtual void Saque(double valor)
+        {
+            Saldo -= valor;
+        }
+
         public override string ToString()
         {
             return Nome

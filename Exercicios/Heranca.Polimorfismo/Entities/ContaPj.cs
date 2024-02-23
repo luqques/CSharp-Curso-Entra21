@@ -17,5 +17,18 @@ namespace Heranca.Polimorfismo.Entities
         {
             Cnpj = cnpj;
         }
+
+        public override void Saque(double valor)
+        {
+            valor += 1; // taxa 1 real no momento do saque
+            base.Saque(valor);
+        }
+
+        public override string ToString()
+        {
+            return Nome
+                + ", "
+                + Cnpj;
+        }
     }
 }

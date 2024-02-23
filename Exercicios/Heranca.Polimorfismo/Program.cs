@@ -6,14 +6,23 @@ namespace Exercicio
     {
         static void Main(string[] args)
         {
-            Conta conta = new Conta();
-            ContaPj contaPj = new ContaPj("Loja LTDA", 132414.89, "132165000165");
-            ContaPf contaPf = new ContaPf();
+            Conta conta = new Conta("Lucas", 10);
+            ContaPf contaPf = new ContaPf("Lucas PF", 10, "05870211956");
+            ContaPj contaPj = new ContaPj("Loja LTDA", 10, "132165000165");
 
-            Conta conta1 = new ContaPf("Lucas", 10.50, "5642132654");
+            // UPCASTING
+            Conta conta1 = new ContaPf("Lucas", 10, "5642132654");
 
-            Console.WriteLine(conta1);
+            conta.Saque(2);
+            contaPf.Saque(2);
+            contaPj.Saque(2);
+            conta1.Saque(2);
+
+            Console.WriteLine(conta);
+            Console.WriteLine(contaPf);
             Console.WriteLine(contaPj);
+            Console.WriteLine(conta1);
+
         }
     }
 
