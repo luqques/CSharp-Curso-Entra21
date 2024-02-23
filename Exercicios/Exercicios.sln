@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumeracoes.Composicoes", "Enumeracoes.Composicoes\Enumeracoes.Composicoes.csproj", "{13F938D9-4610-47BA-93D1-A0602F664920}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca.Polimorfismo", "Heranca.Polimorfismo\Heranca.Polimorfismo.csproj", "{8A51D15E-A136-46BB-9A05-3BCEADE3DAAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{13F938D9-4610-47BA-93D1-A0602F664920}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13F938D9-4610-47BA-93D1-A0602F664920}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13F938D9-4610-47BA-93D1-A0602F664920}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A51D15E-A136-46BB-9A05-3BCEADE3DAAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A51D15E-A136-46BB-9A05-3BCEADE3DAAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A51D15E-A136-46BB-9A05-3BCEADE3DAAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A51D15E-A136-46BB-9A05-3BCEADE3DAAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
