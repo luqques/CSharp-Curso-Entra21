@@ -26,8 +26,8 @@ namespace Heranca.Polimorfismo.Entities
 
         public override string ToString()
         {
-            return Nome
-                + ", "
+            return base.ToString()
+                + ". CNPJ: "
                 + Cnpj;
         }
     }
