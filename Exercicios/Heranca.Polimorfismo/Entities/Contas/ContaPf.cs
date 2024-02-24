@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Heranca.Polimorfismo.Entities
+namespace Heranca.Polimorfismo.Entities.Contas
 {
     public class ContaPf : Conta
     {
@@ -12,7 +12,7 @@ namespace Heranca.Polimorfismo.Entities
 
         public ContaPf() { }
 
-        public ContaPf(string nome, double saldo, string cpf) 
+        public ContaPf(string nome, double saldo, string cpf)
             : base(nome, saldo)
         {
             Cpf = cpf;
