@@ -1,4 +1,5 @@
-﻿using Heranca.Polimorfismo.Entities.Contas;
+﻿using Heranca.Polimorfismo.Entities;
+using Heranca.Polimorfismo.Entities.Contas;
 
 namespace Exercicio
 {
