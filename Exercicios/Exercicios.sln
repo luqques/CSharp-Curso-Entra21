@@ -7,13 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enumeracoes.Composicoes", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Heranca.Polimorfismo", "Heranca.Polimorfismo\Heranca.Polimorfismo.csproj", "{8A51D15E-A136-46BB-9A05-3BCEADE3DAAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{89DCF963-26C2-4CBC-AEB7-EF6D7B07FD51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{89DCF963-26C2-4CBC-AEB7-EF6D7B07FD51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Injecao.Dependencia", "Injecao.Dependencia\Injecao.Dependencia.csproj", "{F608E648-9A8B-4F6A-8D38-D6DBE91244DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Injecao.Dependencia", "Injecao.Dependencia\Injecao.Dependencia.csproj", "{F608E648-9A8B-4F6A-8D38-D6DBE91244DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{5E735FF7-CBBB-40D4-BF85-40C74B1B61AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "Generics\Generics.csproj", "{5E735FF7-CBBB-40D4-BF85-40C74B1B61AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashSet", "HashSet\HashSet.csproj", "{DFECD613-E696-4B90-B769-6F2488510A31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashSet.SortedSet", "HashSet\HashSet.SortedSet.csproj", "{DFECD613-E696-4B90-B769-6F2488510A31}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
