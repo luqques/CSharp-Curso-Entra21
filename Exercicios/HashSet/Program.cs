@@ -14,7 +14,7 @@
 
             foreach (var item in set)
             {
-                Console.WriteLine(item);
+                Console.Write(item + " ");
             }
 
             SortedSet<int> a = new SortedSet<int> { 0, 1, 2, 3 };
